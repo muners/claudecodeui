@@ -77,7 +77,7 @@
 ### 方法1: npxで即座に起動（お試し）
 
 ```bash
-npx @siteboon/claude-code-ui
+npx @muners/claude-code-ui
 ```
 
 ブラウザで `http://localhost:3001` にアクセス。
@@ -86,7 +86,7 @@ npx @siteboon/claude-code-ui
 
 ```bash
 # インストール
-npm install -g @siteboon/claude-code-ui
+npm install -g @muners/claude-code-ui
 
 # 起動
 claude-code-ui
@@ -99,7 +99,7 @@ cloudcli
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/siteboon/claudecodeui.git
+git clone https://github.com/muners/claudecodeui.git
 cd claudecodeui
 
 # 依存関係をインストール
@@ -188,7 +188,7 @@ macOSでは、メニューバーから簡単にサーバーを起動・停止で
 
 ```bash
 # リポジトリをクローン（まだの場合）
-git clone https://github.com/siteboon/claudecodeui.git
+git clone https://github.com/muners/claudecodeui.git
 cd claudecodeui
 
 # メニューバーアプリを作成
@@ -501,7 +501,7 @@ GNU General Public License v3.0 - [LICENSE](LICENSE) を参照
 <div align="center">
   <strong>🏃 PCに仕事を任せて、外に出かけよう</strong>
   <br><br>
-  <a href="https://github.com/siteboon/claudecodeui">⭐ Star this repo</a> ・
-  <a href="https://github.com/siteboon/claudecodeui/issues">🐛 Report Bug</a> ・
-  <a href="https://github.com/siteboon/claudecodeui/issues">💡 Request Feature</a>
+  <a href="https://github.com/muners/claudecodeui">⭐ Star this repo</a> ・
+  <a href="https://github.com/muners/claudecodeui/issues">🐛 Report Bug</a> ・
+  <a href="https://github.com/muners/claudecodeui/issues">💡 Request Feature</a>
 </div>
