@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/logo.svg" alt="Claude Code UI" width="64" height="64">
+  <img src="public/icons/claude-code-uid-v2.png" alt="Claude Code UI V2" width="64" height="64">
   <h1>Claude Code UI</h1>
   <p><strong>🏃 PCを立ち上げっぱなしにして、ジムやウォーキングに出かけよう</strong></p>
   <p>スマートフォンからセキュアにClaude Codeを操作できるリモートUI</p>
