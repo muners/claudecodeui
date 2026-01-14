@@ -74,28 +74,7 @@
 - [Node.js](https://nodejs.org/) v20以上
 - [Claude Code CLI](https://docs.anthropic.com/en/docs/claude-code)（または [Cursor CLI](https://docs.cursor.com/en/cli/overview) / [Codex](https://developers.openai.com/codex)）
 
-### 方法1: npxで即座に起動（お試し）
-
-```bash
-npx @muners/claude-code-ui
-```
-
-ブラウザで `http://localhost:3001` にアクセス。
-
-### 方法2: グローバルインストール（推奨）
-
-```bash
-# インストール
-npm install -g @muners/claude-code-ui
-
-# 起動
-claude-code-ui
-
-# または
-cloudcli
-```
-
-### 方法3: ソースからインストール（開発者向け）
+### インストール方法
 
 ```bash
 # リポジトリをクローン
